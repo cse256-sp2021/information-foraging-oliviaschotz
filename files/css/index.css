@@ -16,12 +16,15 @@
 #visit-our-school {
     text-align: center;
     background-color: #eee;
-    padding: 80px;
+    padding: 60px;
     margin-bottom: 2em;
 }
 
 #visit-our-school p {
-    text-align: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    width: 70%;
     margin-bottom: 2em;
     font-size: 1.25em;
 }
@@ -108,4 +111,8 @@ main hr {
     border: none;
     background-color: #eee;
     height: 1px;
+}
+
+#left-header h3{
+    font-size: 2em;
 }
