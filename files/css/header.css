@@ -62,7 +62,7 @@ header {
 
 /* Links inside the navbar */
 
-.navbar a {
+.navbar a{
     float: left;
     font-size: 16px;
     color: white;
@@ -132,7 +132,7 @@ header a {
 
 /* Links inside the dropdown */
 
-.dropdown-content a {
+.dropdown-content a, .dropdown-content p {
     float: none;
     color: black;
     padding: 12px 16px;
