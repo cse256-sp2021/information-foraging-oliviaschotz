@@ -148,6 +148,19 @@ header a {
     background-color: #ddd;
 }
 
+.teddy:hover{
+    background-color: #FF5954 !important;
+}
+.cubs:hover{
+    background-color: rgb(255, 165, 47) !important;
+}
+.bigb:hover{
+    background-color: #6F9E74 !important;
+}
+.extensionb:hover{
+    background-color: #2C9C96 !important;
+}
+
 
 /* Show the dropdown menu on hover */
 
