@@ -40,12 +40,10 @@
     padding: 8px 20px;
 }
 
-#column-view {
-    display: flex;
-}
-
 .column {
-    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    width: 80%;
     padding: 16px;
     font-size: 1em;
 }
@@ -61,6 +59,7 @@
 .column-header {
     background-color: #2b8282;
     padding: 19px 24px;
+    font-size: 1.5em;
 }
 
 .column h3 {
@@ -111,8 +110,4 @@ main hr {
     border: none;
     background-color: #eee;
     height: 1px;
-}
-
-#left-header h3{
-    font-size: 2em;
 }
