@@ -1,3 +1,17 @@
 @import url("common.css");
 @import url("side_menu.css");
 @import url("staff_entry.css");
+
+.col-section .header{
+    background-color: #2b8282;
+    padding: 19px 24px;
+    font-size: 1.5em;
+}
+
+.col-section h3{
+    color:#fafafa;
+}
+
+.col-section{
+    width: 50%;
+}

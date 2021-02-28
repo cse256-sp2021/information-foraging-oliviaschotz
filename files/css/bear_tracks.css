@@ -1,6 +1,33 @@
 @import url("common.css");
 @import url("side_menu.css");
 @import url("staff_entry.css");
+
+.col-section .header{
+    background-color: #2b8282;
+    padding: 10px 24px;
+    font-size: 1.5em;
+}
+
+.col-section h3{
+    color:#fafafa;
+}
+
+.col-section h4{
+    margin-top: 1em;
+    color: rgb(208, 28, 41);
+    cursor: pointer;
+    font-family: "Libre Baskerville", "Times New Roman", serif;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0.25px;
+    line-height: 28px;
+    text-decoration-color: rgb(208, 28, 41);
+}
+
+.col-section{
+    width: 50%;
+}
+
 #class-schedule td {
     border: 1px solid #ddd;
 }
