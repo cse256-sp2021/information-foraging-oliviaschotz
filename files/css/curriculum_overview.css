@@ -2,6 +2,11 @@
 @import url("side_menu.css");
 @import url("accordian.css");
 
+h2 span{
+    margin-top: -60px;
+    padding-bottom: 60px; 
+    display: block;
+}
 main ul {
     margin-top: 1em;
 }

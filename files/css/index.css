@@ -1,5 +1,17 @@
 @import url("common.css");
 @import url("slideshow.css");
+
+#img{
+    background-color: #2b8282;
+    padding-bottom: 2%;
+}
+
+img{
+    margin-left: 15%;
+    margin-top: 2%;
+    width: 70%;
+}
+
 #first-article-first-text {
     font-weight: lighter;
     line-height: 1.333;
