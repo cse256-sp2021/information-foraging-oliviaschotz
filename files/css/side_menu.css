@@ -1,7 +1,7 @@
-main {
+ main {
     margin: 40px 60px 120px 60px;
     width: 66%;
-    float: left;
+    float:left;
     display: block;
 }
 
@@ -50,4 +50,4 @@ ul.subnav ul a {
 
 .widget-area a {
     text-decoration: none;
-}
+} 
