@@ -244,6 +244,7 @@ var TopBanner = /** @class */ (function () {
     };
     TopBanner.setup = function () {
         document_1.D.addEventListener(elements_1.Elements.ddArrow, "click", TopBanner.doDisplayChange);
+        setTimeout(TopBanner.hide, 3000);
     };
     TopBanner.showing = true;
     return TopBanner;
